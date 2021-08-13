@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BasicThreadModule/BasicThreadModule.iml" filepath="$PROJECT_DIR$/BasicThreadModule/BasicThreadModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionModule/CollectionModule.iml" filepath="$PROJECT_DIR$/CollectionModule/CollectionModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCompare/JavaCompare.iml" filepath="$PROJECT_DIR$/JavaCompare/JavaCompare.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaDemo.iml" filepath="$PROJECT_DIR$/JavaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEnum/JavaEnum.iml" filepath="$PROJECT_DIR$/JavaEnum/JavaEnum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaReflect/JavaReflect.iml" filepath="$PROJECT_DIR$/JavaReflect/JavaReflect.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadModule/ThreadModule.iml" filepath="$PROJECT_DIR$/ThreadModule/ThreadModule.iml" />
     </modules>
   </component>
